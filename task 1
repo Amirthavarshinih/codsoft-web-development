@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfolio</title>
+        
+        <link rel="stylesheet" href='C:\Users\amirt\OneDrive\Desktop\codesoft\profile.css'>
+        
+    </head>
+    <body>
+        
+        <header class="header">
+            
+            <a href="#" class="logo">Portfolio</a>
+            <nav class="navbar" id="myLinks">
+                <a href="#Home"  class="active" >Home</a>
+                <a href="#About" >About</a>
+                <a href="#Skills">Skills</a>
+                <a href="#Projects" >Services</a>
+                <a href="#Contact" >Contact</a>
+            </nav>
+        </header>
+
+
+        <section class="home" id="Home">
+            <div class="home-content">
+                
+                <h3>Hello, It's Me</h3>
+                <h1>AMIRTHAVARSHINI H</h1>
+                <h4>I'm a Engineering student 
+                    </h4>
+                 
+            </div>
+        </section>
+
+
+        <section>
+            <div class="about" id="About">
+                <div class="about-img">
+                    <img src="C:\Users\amirt\OneDrive\Desktop\codesoft\WhatsApp Image 2024-05-14 at 1.23.42 PM.jpeg" class="abt-res">
+                </div>
+                <div class="about-text">
+                    <h2>About <span>Me</span></h2>
+                    <p>I am currently pursuing a B.Tech in Computer Science and Business Systems at Chennai Institute of Technology. With a strong passion for coding and web development, I have completed numerous problems on LeetCode and other platforms, consistently ranking in the top percentile in competitive programming contests. My interests also extend to data science, where I have gained practical experience through various projects and Kaggle competitions. Proficient in Python, JavaScript, and several web and data science frameworks, I am eager to leverage my skills in a dynamic and challenging environment to contribute to innovative projects.
+
+                        <br>
+                        <br>
+                        <a href="https://drive.google.com/file/d/18UQSFzY9kdABAWTxDMgy_uBmery6-2q_/view?usp=sharing" style="--i:11" class="abtbtn-box" target="_blank">Download Resume</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        
+        <section id="Skills">
+            <h1 class="subtitle">My <span>Skills</span></h1>
+            <div class="sec">
+                <div class="container1">
+                    <h1 class="heading1">Technical Skills</h1>
+                    <div class="Technical-bars">
+
+                        <div class="bar"><i class='bx bxl-html5' style="color: #c9332e;"></i>
+                            <div class="info">
+                                <span>HTML <span class="addhtml"></span></span>
+                            </div>
+                            <div class="progress-line html">
+                                <span></span>
+                            </div>
+                        </div>
+
+                        <div class="bar"><i class='bx bxl-css3' style="color: #147bbc;"></i>
+                            <div class="info">
+                                <span>CSS <span class="addcss"></span></span>
+                            </div>
+                            <div class="progress-line css">
+                                <span></span>
+                            </div>
+                        </div>
+
+                        <div class="bar"><i class='bx bxl-python' style="color: #b0bc1e;"></i>
+                            <div class="info">
+                                <span>Python <span class="addpy"></span></span>
+                            </div>
+                            <div class="progress-line python">
+                                <span></span>
+                            </div>
+                        </div>
+
+                        <div class="bar"><i class='bx bxl-java' style="color: #c95d2e;"></i>
+                            <div class="info">
+                                <span>Java <span class="addjava"></span></span>
+                            </div>
+                            <div class="progress-line java">
+                                <span></span>
+                            </div>
+                        </div>
+
+                        <div class="bar"><i class='bx bxl-c-plus-plus'style="color: #3db2fc;"></i>
+                            <div class="info">
+                                <span>C/C++ <span class="addc"></span></span>
+                            </div>
+                            <div class="progress-line cpls">
+                                <span></span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container2">
+                    <h1 class="heading1">Professional Skills</h1>
+                    <div class="radial-bars">
+                        <div class="radial-bar">
+                            <svg x="0px" y="0px" viewBox="0 0 200 200">
+                                <circle class="progress-bar" cx="100" cy="80" r="80"></circle>
+                                <circle class="path path-1" cx="100" cy="80" r="80"></circle>
+                            </svg>
+                            <div class="percentage">60%</div>
+                            <div class="text">Problem Solving</div>
+                        </div>
+
+                        <div class="radial-bar">
+                            <svg x="0px" y="0px" viewBox="0 0 200 200">
+                                <circle class="progress-bar" cx="100" cy="80" r="80"></circle>
+                                <circle class="path path-2" cx="100" cy="80" r="80"></circle>
+                            </svg>
+                            <div class="percentage">70%</div>
+                            <div class="text">Creativity</div>
+                        </div>
+
+                        <div class="radial-bar">
+                            <svg x="0px" y="0px" viewBox="0 0 200 200">
+                                <circle class="progress-bar" cx="100" cy="80" r="80"></circle>
+                                <circle class="path path-3" cx="100" cy="80" r="80"></circle>
+                            </svg>
+                            <div class="percentage">80%</div>
+                            <div class="text">Communication</div>
+                        </div>
+
+                        <div class="radial-bar">
+                            <svg x="0px" y="0px" viewBox="0 0 200 200">
+                                <circle class="progress-bar" cx="100" cy="80" r="80"></circle>
+                                <circle class="path path-4" cx="100" cy="80" r="80"></circle>
+                            </svg>
+                            <div class="percentage">90%</div>
+                            <div class="text">Teamwork</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+       
+
+                        
+
+        <section id="Services">
+            <div class="project">
+                <div class="container">
+                    <h1 class="sub-title">My <span>Services</span></h1>
+                    <div class="prj-list">
+                        <div>
+                            <i class='bx bx-code' style="color: #ff00a6;"></i>
+                            <h2>Web Development</h2>
+                            <p>Plan, create and code internet sites and web pages with modern and artful design.</p>
+                            
+                        </div>
+                       
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="contacts" id="Contact">
+            <div class="contact-text">
+                <h2>Contact <span>Me</span></h2>
+                <h4>Let's Work Together</h4>
+                <div class="contact-list">
+                    <li><i class='bx bxs-send'></i>amirthahari06@gmail.com</li>
+                    
+                </div>
+                <div>
+                <a href="https://www.linkedin.com/in/amirthavarshini-harikrishnan-8a7756285/" style="--i:11" class="abtbtn-box" target="_blank">linkedin</a>
+            </p><br>
+            <a href="https://github.com/" style="--i:11" class="abtbtn-box" target="_blank">github</a>
+            </p>
+                </div>
+              
+            </div>
+            
+        </section>
+        
+       
+        
+
+        
+    </body>  
+</html>
